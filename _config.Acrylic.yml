@@ -1,0 +1,334 @@
+## Acrylic主题配置文件
+############################################################################################################
+# 为避免主题更新后，配置文件被覆盖，请复制一份此文件到站点根目录下的_config.Acrylic.yml文件中，修改_config.Acrylic.yml文件中的配置
+############################################################################################################
+# 修改此文件前，请仔细阅读官方文档：https://next-docs.acrylic.org.cn/
+############################################################################################################
+
+
+# 站点设置
+site:
+  name:                   # 左上角显示内容
+    class:  text          #i_class/text/img
+    custom: ZKHEO       #自定义内容
+  siteIcon: http://qn.zkheo.top/avatar.gif # 网页icon
+  icon: http://qn.zkheo.top/avatar.gif     # 页脚的icon、加载动画默认的icon
+  icp:                       # ICP
+
+# 导航栏
+nav:
+#导航栏左侧
+  left:
+    enable: true
+    menu:
+       我的:
+         博客:
+           icon: http://qn.zkheo.top/avatar.gif
+           url: /
+         GPT:
+           icon: http://qn.zkheo.top/gpt.png
+           url: https://gpt.zkheo.top/
+# 导航栏内容
+  menu:
+     首页:
+       url: /
+     文库:
+       url: false
+       child:
+         文章列表:
+           url: /archives/
+           icon: fas fa-box-archive
+         全部分类:
+           url: /categories/
+           icon: fas fa-cube
+         全部标签:
+           url: /tags/
+           icon: fas fa-tags
+#    仓库:
+#      url: https://github.com/rootlexblog
+#      child:
+     友链:
+       url: /links/
+       icon: fas fa-user-group
+     关于:
+       url: /about/
+
+
+# 导航栏右侧快捷菜单
+  right: # @todo 允许用户自定义
+    travellings: true   #开往
+    random: true        #随机前往一个博客
+    console: true       #控制台
+
+# heo式顶部一大坨
+hometop:
+  bbtime: true
+  banner:
+    enable: true
+    title: 分享技术<br>与生活
+    url: blog.zkheo.top
+    icon:
+      Java:
+         img: http://qn.zkheo.top/202304251541847.png
+         color: '#ffffff'
+      Spring:
+        img: http://qn.zkheo.top/202304251644616.png
+        color: '#ffffff'
+      Sql:
+        img: http://qn.zkheo.top/202304251808009.png
+        color: '#ffffff'
+      Vue:
+        img: http://qn.zkheo.top/202304251653485.png
+        color: '#ffffff'
+      HTML:
+        img: http://qn.zkheo.top/202304261312512.png
+        color: '#ffffff'
+      JS:
+        img: http://qn.zkheo.top/202304261322403.png
+        color: '#ffffff'
+      CSS3:
+        img: http://qn.zkheo.top/202304261313369.png
+        color: '#ffffff'
+      Python:
+        img: https://p.zhheo.com/20235c0731cd4c0c95fc136a8db961fdf963071502.png!cover
+        color: '#ffffff'
+      Flutter:
+        img: http://qn.zkheo.top/202304251656974.png
+        color: '#ffffff'
+      Dart:
+        img: http://qn.zkheo.top/202304251555072.png
+        color: '#ffffff'
+      Maven:
+        img: http://qn.zkheo.top/202304251543899.png
+        color: '#ffffff'
+      Git:
+        img: http://qn.zkheo.top/202304261317429.png
+        color: '#ffffff'
+      Idea:
+        img: http://qn.zkheo.top/202304251525620.png
+        color: '#ffffff'
+      Docker:
+        img: http://qn.zkheo.top/202304251805906.png
+        color: '#ffffff'
+
+  categoryGroup:
+    G1:
+      name: 技术
+      icon: fas fa-dove
+      url: /tags/技术/
+    G2:
+      name: 兴趣
+      icon: fas fa-burn
+      url: /tags/兴趣/
+    G3:
+      name: 生活
+      icon: fas fa-book
+      url: /tags/生活/
+
+  recommendList:
+    sup: 置顶文章
+    title: 让Acrylic成为您的Hexo主题
+    url: /
+    img: /img/acrylic.png
+    color: '#006a73'
+
+# 个人卡片
+aside:
+  home:
+    noSticky: "about,flip"
+    Sticky: "newestPost,allInfo"
+  post:
+    noSticky: "about"
+    Sticky: "newestPost"
+  page:
+    noSticky: "about,flip"
+    Sticky: "newestPost,allInfo"
+
+  card:
+    content: 这有关于<b>开发</b>、<b>技术</b>相关的问题和看法，<br>还有一些对<b>生活</b>的记录。
+    information:
+      # Github:
+      #   icon: fa-brands fa-github
+      #   url: https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next
+       Mail:
+         icon: fa-solid fa-envelope
+         url: zk2252@88.com
+    button:
+      text: 个人主页
+      url: /
+
+  flip:
+    color: '#0099FF'
+    face:
+      title: QQ群
+      desc: 加入QQ群一起交流
+    backface:
+      title: 扫一扫
+      desc: 获取最新信息和帮助
+      img: http://qn.zkheo.top/202305011024174.png
+
+  toc:
+    post: true
+    page: false
+
+  # 建站时间
+  siteinfo:
+    postcount: true
+    wordcount: false
+    pv: true
+    uv: true
+    updatetime: false
+    runtimeenable: true
+    runtime: '2021-12-12 00:00:00'
+
+# 页脚
+footer:
+  information:
+    left:
+       Github:
+         icon: fa-brands fa-github
+         url: /
+       Mail:
+         icon: fa-solid fa-envelope
+         url: /
+    right:
+       QQ:
+         icon: fa-brands fa-qq
+         url: /
+       DOU:
+         icon: fa-brands fa-tiktok
+         url: /
+
+  group:
+     导航:
+       文章归档: /archives/
+       文章分类: /categories/
+       文章标签: /tags/
+       友链: /links/
+     服务:
+       51la统计: https://51.la/
+       百度统计: https://tongji.baidu.com/
+       TianliCDN: https://ql.tianli0.top/
+     工具:
+       ChatGPT: https://gpt.zkheo.top/
+
+  randomlink: false
+
+page:
+  error: true
+  tags: true
+  categories: true
+  default:
+    cover: /img/hello.jpg
+
+# 文章页默认设置
+post:
+  default:
+    cover: /img/hello.jpg
+    locate: 北京
+    copyright: 原创
+    excerpt: 100
+  meta:
+    date: true #是否显示日期
+    updated: false #是否显示更新日期
+    locate: false #是否显示作者IP
+    wordcount: false #是否显示字数
+    readtime: false #是否显示阅读时间
+    pv: true #是否显示访问量
+    comment: true #是否显示评论数
+  award:
+    enable: true #是否开启赞赏功能
+    wechat: http://qn.zkheo.top/wechatpay.png
+    alipay: http://qn.zkheo.top/alipay.png
+    url: #打赏名单url
+  covercolor: #文章cover取色
+    enable: false
+    local: false
+
+# 关于界面
+about: true
+
+# 404页面
+errorpage:
+  img: /img/acrylic.png
+  text: =awa= 页面走丢了
+  recommendList: true
+
+# 懒加载
+lazyload:
+  enable: false
+  placeholder: /img/acrylic.png
+  errorimg: /img/acrylic.png
+
+# 图片灯箱
+lightbox: true
+
+#代码高亮增强
+hightlight:
+  enable: false
+  hightlimit: 200
+
+# 加载动画
+loading:
+  fullpage: false
+  pace: false
+
+# 第三方设置
+thirdparty:
+  wordcount: false
+  busuanzi:
+    enable: true
+    usecomment: false #当评论系统开启时文章页面使用评论系统的统计数据
+  search:
+#    algolia_search:
+#      enable: false
+      # hits:
+      #   per_page: 6
+    local_search:
+      enable: true
+      preload: false
+      CDN:
+
+  aplayer:
+    enable: false
+    server: tencent
+    id: 1708664797
+
+# 评论
+comment:
+  enable: true
+  twikoo:
+    envId: https://comment.zkheo.top
+    # region: ap-shanghai
+    path: window.location.pathname
+
+
+# 插入代码到头部 </head> 之前 和 底部 </body> 之前
+# 插入额外代码 如：统计，广告等
+extends:
+  head: # 在head中插入
+    # - <script></script>
+  body: # 在body中插入
+
+# 非必要勿动
+cdn:
+  head:
+    pacejs: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/pace/1.2.4/pace.min.js
+    fontawesomecss: https://cdn.bootcdn.net/ajax/libs/font-awesome/6.3.0/css/all.min.css
+    snackbarcss: /lib/snackbar.min.css
+    qrcodejs: /lib/qrcode.min.js
+    twikoojs: https://cdn.staticfile.org/twikoo/1.6.10/twikoo.all.min.js
+    instantsearch: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/instantsearch.js/4.39.0/instantsearch.production.min.js
+    algolia: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/algoliasearch/4.12.1/algoliasearch-lite.umd.min.js
+  body:
+    swipercss: /lib/swiper.min.css
+    pjaxjs: /lib/pjax.min.js
+    lazyloadjs: /lib/lazyload.min.js
+    snackbarjs: /lib/snackbar.min.js
+    viewimagejs: /lib/view-image.min.js
+    waterfalljs: /lib/waterfall.min.js
+    swiperjs: /lib/swiper.min.js
+    busuanzijs: https://npm.elemecdn.com/penndu@1.0.0/bsz.js
+    aplayercss: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css
+    aplayerjs: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js
+    metingjs: https://cdn1.tianli0.top/npm/meting@2.0.1/dist/Meting.min.js

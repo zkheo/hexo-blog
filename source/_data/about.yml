@@ -1,0 +1,147 @@
+authorinfo:
+  leftTags:
+    - "🤖️"
+    - "🔍"
+    - "🏠"
+    - "🔨"
+  rightTags:
+    - "🤝"
+    - "🏃"
+    - "🧱"
+    - "💢"
+  image: "http://qn.zkheo.top/avatar.gif"
+contentinfo:
+  name: ZKHEO
+  title: JAVA开发、业余博主
+  product: 优秀的产品
+  design: 出色的设计
+  program: 高效的编程
+#  user_experience: 人性化的用户体验
+
+skills:
+  title: 技能
+  subtitle: 开启创造力
+  tags: #
+    - title: Java
+      icon: http://qn.zkheo.top/202304251541847.png
+      color: "#ffffff"
+    - title: Spring
+      icon: http://qn.zkheo.top/202304251644616.png
+      color: "#ffffff"
+    - title: Sql
+      icon: http://qn.zkheo.top/202304251808009.png
+      color: "#ffffff"
+    - title: Vue
+      icon: http://qn.zkheo.top/202304251653485.png
+      color: "#ffffff"
+    - title: "HTML"
+      color: "#ffffff"
+#      icon: "http://qn.zkheo.top/202304261311021.png"
+      icon: "http://qn.zkheo.top/202304261312512.png"
+    - title: "JS"
+      color: "#ffffff"
+      icon: "http://qn.zkheo.top/202304261322403.png"
+    - title: "CSS3"
+      color: "#ffffff"
+      icon: "http://qn.zkheo.top/202304261313369.png"
+    - title: Python
+      icon: https://p.zhheo.com/20235c0731cd4c0c95fc136a8db961fdf963071502.png!cover
+      color: "#ffffff"
+    - title: "Flutter"
+      color: "#ffffff"
+      icon: "http://qn.zkheo.top/202304251656974.png"
+    - title: "Dart"
+      color: "#ffffff"
+      icon: "http://qn.zkheo.top/202304251555072.png"
+    - title: "Maven"
+      color: "#ffffff"
+      icon: "http://qn.zkheo.top/202304251543899.png"
+    - title: "Git"
+      color: "#ffffff"
+      icon: "http://qn.zkheo.top/202304261317429.png"
+    - title: Idea
+      icon: http://qn.zkheo.top/202304251525620.png
+      color: "#ffffff"
+    - title: Docker
+#      icon: https://p.zhheo.com/20231108a540b2862d26f8850172e4ea58ed075102.png!cover
+      icon: http://qn.zkheo.top/202304251805906.png
+      color: "#ffffff"
+
+careers:
+  title: "生涯"
+  subtitle: "无限探索"
+  items:
+    - school: "Peking Opera"
+      major: "京剧演员"
+      color: "#357ef5"
+    - school: "Coder"
+      major: "程序员"
+      color: "#eb372a"
+  image: "http://qn.zkheo.top/timeline.png"
+
+personalities:
+  tips: "性格"
+  title: "冒险家"
+  color: "#56a178"
+  type: "ISFP-T"
+  image: "http://qn.zkheo.top/maoxianjia.png"
+  link: "https://www.16personalities.com/"
+  linkText: "16personalities"
+  typeLink: "https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC"
+  typeName: "冒险家"
+  myphoto: "http://qn.zkheo.top/202304281453111.png"
+
+#motto:
+#  title: 座右铭
+#  prefix: 荆棘之路，
+#  content: 劈风斩浪。
+#expertise:
+#  title: 特长
+#  prefix: 玄学流电脑疑难问题解决
+#  specialist: 专家
+#  content: 软件学习能力
+#  level: MAX
+
+game1:
+  title: "魔兽世界"
+  icon: "fas fa-gamepad"
+  tips: ""
+  img: http://qn.zkheo.top/1JG4UGMOYQYO1472165790545.webp
+game2:
+  title: "魔兽世界"
+  icon: "fas fa-dice-d20"
+  tips: "ID 1234"
+  img: http://qn.zkheo.top/UE1LAXBL2M2Z1468597155029.webp
+#likes:
+#  - type: like-technology
+#    tips: 关注偏好
+#    title: 数码科技
+#    subtips: 手机、电脑软硬件
+#    img: https://p.zhheo.com/2023e6940f5f56f0004af2705c3586d1fdf5190802.png!cover
+#  - type: like-music
+#    tips: 音乐偏好
+#    title: Hiphop、民谣、华语流行
+#    subtips:
+#    img: https://bu.dusays.com/2023/03/12/640dc6bed6d2d.jpg
+
+
+oneself:
+  location: '中国，北京市'
+  birthYear: '1990'
+  university: '中国戏曲学院'
+  major: '京剧表演'
+  occupation: '武花脸'
+
+tj:
+  url: https://v6-widget.51.la/v6/K0yfsHaZHpjPWap0/quote.js
+  img: https://bu.dusays.com/2023/03/12/640dc8c72f623.webp
+
+cause: <br>创建这个站的时候，就是想要能够有一个自己<b>积累知识、积累兴趣、分享生活</b>的地方。
+  <br>
+  这些就是创造这个小站的本意，<b>也是我分享生活的方式</b>。有幸能和你相遇在这里，相信我们能共同留下一段美好记忆。</p>
+
+rewardList:
+  - name: 匿名
+    money: 1
+    time: 2023-05-01
+    vip: false
