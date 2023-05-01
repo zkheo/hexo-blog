@@ -91,16 +91,18 @@ personalities:
   typeName: "冒险家"
   myphoto: "http://qn.zkheo.top/202304281453111.png"
 
-#motto:
-#  title: 座右铭
-#  prefix: 荆棘之路，
-#  content: 劈风斩浪。
-#expertise:
-#  title: 特长
-#  prefix: 玄学流电脑疑难问题解决
-#  specialist: 专家
-#  content: 软件学习能力
-#  level: MAX
+motto:
+  enable: false
+  title: 座右铭
+  prefix: 荆棘之路，
+  content: 劈风斩浪。
+expertise:
+  enable: false
+  title: 特长
+  prefix: 玄学流电脑疑难问题解决
+  specialist: 专家
+  content: 软件学习能力
+  level: MAX
 
 game1:
   title: "魔兽世界"
@@ -112,17 +114,19 @@ game2:
   icon: "fas fa-dice-d20"
   tips: "ID 1234"
   img: http://qn.zkheo.top/UE1LAXBL2M2Z1468597155029.webp
-#likes:
-#  - type: like-technology
-#    tips: 关注偏好
-#    title: 数码科技
-#    subtips: 手机、电脑软硬件
-#    img: https://p.zhheo.com/2023e6940f5f56f0004af2705c3586d1fdf5190802.png!cover
-#  - type: like-music
-#    tips: 音乐偏好
-#    title: Hiphop、民谣、华语流行
-#    subtips:
-#    img: https://bu.dusays.com/2023/03/12/640dc6bed6d2d.jpg
+like:
+  enable: false
+  likes:
+    - type: like-technology
+      tips: 关注偏好
+      title: 数码科技
+      subtips: 手机、电脑软硬件
+      img: https://p.zhheo.com/2023e6940f5f56f0004af2705c3586d1fdf5190802.png!cover
+    - type: like-music
+      tips: 音乐偏好
+      title: Hiphop、民谣、华语流行
+      subtips:
+      img: https://bu.dusays.com/2023/03/12/640dc6bed6d2d.jpg
 
 
 oneself:
