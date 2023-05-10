@@ -9,7 +9,7 @@ authorinfo:
     - "🏃"
     - "🧱"
     - "💢"
-  image: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif"
+  image: "http://tx.zkheo.top/avatar.gif"
 contentinfo:
   name: ZKHEO
   title: JAVA开发、业余博主
@@ -23,48 +23,46 @@ skills:
   subtitle: 开启创造力
   tags: #
     - title: Java
-      icon: http://qn.zkheo.top/202304251541847.png
+      icon: https://tx.zkheo.top/202305101451563.png
       color: "#ffffff"
     - title: Spring
-      icon: http://qn.zkheo.top/202304251644616.png
+      icon: https://tx.zkheo.top/202305101451265.png
       color: "#ffffff"
     - title: Sql
-      icon: http://qn.zkheo.top/202304251808009.png
+      icon: https://tx.zkheo.top/202305101452804.png
       color: "#ffffff"
     - title: Vue
-      icon: http://qn.zkheo.top/202304251653485.png
+      icon: https://tx.zkheo.top/202305101452496.png
       color: "#ffffff"
     - title: "HTML"
       color: "#ffffff"
-#      icon: "http://qn.zkheo.top/202304261311021.png"
-      icon: "http://qn.zkheo.top/202304261312512.png"
+      icon: https://tx.zkheo.top/202305101452383.png
     - title: "JS"
       color: "#ffffff"
-      icon: "http://qn.zkheo.top/202304261322403.png"
+      icon: https://tx.zkheo.top/202305101453167.png
     - title: "CSS3"
       color: "#ffffff"
-      icon: "http://qn.zkheo.top/202304261313369.png"
+      icon: https://tx.zkheo.top/20230510145452.png
     - title: Python
-      icon: https://p.zhheo.com/20235c0731cd4c0c95fc136a8db961fdf963071502.png!cover
+      icon: https://tx.zkheo.top/20230510145524.png
       color: "#ffffff"
     - title: "Flutter"
       color: "#ffffff"
-      icon: "http://qn.zkheo.top/202304251656974.png"
+      icon: https://tx.zkheo.top/20230510145545.png
     - title: "Dart"
       color: "#ffffff"
-      icon: "http://qn.zkheo.top/202304251555072.png"
+      icon: https://tx.zkheo.top/20230510145610.png
     - title: "Maven"
       color: "#ffffff"
-      icon: "http://qn.zkheo.top/202304251543899.png"
+      icon: https://tx.zkheo.top/20230510145648.png
     - title: "Git"
       color: "#ffffff"
-      icon: "http://qn.zkheo.top/202304261317429.png"
+      icon: https://tx.zkheo.top/20230510145719.png
     - title: Idea
-      icon: http://qn.zkheo.top/202304251525620.png
+      icon: https://tx.zkheo.top/20230510145736.png
       color: "#ffffff"
     - title: Docker
-#      icon: https://p.zhheo.com/20231108a540b2862d26f8850172e4ea58ed075102.png!cover
-      icon: http://qn.zkheo.top/202304251805906.png
+      icon: https://tx.zkheo.top/20230510145758.png
       color: "#ffffff"
 
 careers:
@@ -77,19 +75,19 @@ careers:
     - school: "Coder"
       major: "程序员"
       color: "#eb372a"
-  image: "http://qn.zkheo.top/timeline.png"
+  image: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101504829.png"
 
 personalities:
   tips: "性格"
   title: "冒险家"
   color: "#56a178"
   type: "ISFP-T"
-  image: "http://qn.zkheo.top/maoxianjia.png"
+  image: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150425.png"
   link: "https://www.16personalities.com/"
   linkText: "16personalities"
   typeLink: "https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC"
   typeName: "冒险家"
-  myphoto: "http://qn.zkheo.top/202304281453111.png"
+  myphoto: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150448.png"
 
 motto:
   enable: false
@@ -108,12 +106,12 @@ game1:
   title: "魔兽世界"
   icon: "fas fa-gamepad"
   tips: ""
-  img: http://qn.zkheo.top/1JG4UGMOYQYO1472165790545.webp
+  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150539.png
 game2:
   title: "魔兽世界"
   icon: "fas fa-dice-d20"
   tips: "ID 1234"
-  img: http://qn.zkheo.top/UE1LAXBL2M2Z1468597155029.webp
+  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150600.png
 like:
   enable: false
   likes:
@@ -134,7 +132,7 @@ oneself:
   birthYear: '1990'
   university: '中国戏曲学院'
   major: '京剧表演'
-  occupation: '武花脸'
+  occupation: '程序员'
 
 tj:
   url: https://v6-widget.51.la/v6/K0yfsHaZHpjPWap0/quote.js

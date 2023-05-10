@@ -11,8 +11,8 @@ site:
   name:                   # 左上角显示内容
     class:  text          #i_class/text/img
     custom: ZKHEO       #自定义内容
-  siteIcon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif # 网页icon
-  icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif     # 页脚的icon、加载动画默认的icon
+  siteIcon: http://tx.zkheo.top/avatar.gif # 网页icon
+  icon: http://tx.zkheo.top/avatar.gif     # 页脚的icon、加载动画默认的icon
   icp:                       # ICP
 
 # 导航栏
@@ -23,10 +23,10 @@ nav:
     menu:
        我的:
          博客:
-           icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif
+           icon: http://tx.zkheo.top/avatar.gif
            url: /
          GPT:
-           icon: http://qn.zkheo.top/gpt.png
+           icon: https://tx.zkheo.top/202305101449797.png
            url: https://gpt.zkheo.top/
 # 导航栏内容
   menu:
@@ -69,46 +69,46 @@ hometop:
     url: blog.zkheo.top
     icon:
       Java:
-         img: http://qn.zkheo.top/202304251541847.png
+         img: https://tx.zkheo.top/202305101451563.png
          color: '#ffffff'
       Spring:
-        img: http://qn.zkheo.top/202304251644616.png
+        img: https://tx.zkheo.top/202305101451265.png
         color: '#ffffff'
       Sql:
-        img: http://qn.zkheo.top/202304251808009.png
+        img: https://tx.zkheo.top/202305101452804.png
         color: '#ffffff'
       Vue:
-        img: http://qn.zkheo.top/202304251653485.png
+        img: https://tx.zkheo.top/202305101452496.png
         color: '#ffffff'
       HTML:
-        img: http://qn.zkheo.top/202304261312512.png
+        img: https://tx.zkheo.top/202305101452383.png
         color: '#ffffff'
       JS:
-        img: http://qn.zkheo.top/202304261322403.png
+        img: https://tx.zkheo.top/202305101453167.png
         color: '#ffffff'
       CSS3:
-        img: http://qn.zkheo.top/202304261313369.png
+        img: https://tx.zkheo.top/20230510145452.png
         color: '#ffffff'
       Python:
-        img: https://p.zhheo.com/20235c0731cd4c0c95fc136a8db961fdf963071502.png!cover
+        img: https://tx.zkheo.top/20230510145524.png
         color: '#ffffff'
       Flutter:
-        img: http://qn.zkheo.top/202304251656974.png
+        img: https://tx.zkheo.top/20230510145545.png
         color: '#ffffff'
       Dart:
-        img: http://qn.zkheo.top/202304251555072.png
+        img: https://tx.zkheo.top/20230510145610.png
         color: '#ffffff'
       Maven:
-        img: http://qn.zkheo.top/202304251543899.png
+        img: https://tx.zkheo.top/20230510145648.png
         color: '#ffffff'
       Git:
-        img: http://qn.zkheo.top/202304261317429.png
+        img: https://tx.zkheo.top/20230510145719.png
         color: '#ffffff'
       Idea:
-        img: http://qn.zkheo.top/202304251525620.png
+        img: https://tx.zkheo.top/20230510145736.png
         color: '#ffffff'
       Docker:
-        img: http://qn.zkheo.top/202304251805906.png
+        img: https://tx.zkheo.top/20230510145758.png
         color: '#ffffff'
 
   categoryGroup:
@@ -165,7 +165,7 @@ aside:
     backface:
       title: 扫一扫
       desc: 获取最新信息和帮助
-      img: http://qn.zkheo.top/202305011024174.png
+      img: https://tx.zkheo.top/20230510150003.png
 
   toc:
     post: true
@@ -238,8 +238,8 @@ post:
     comment: true #是否显示评论数
   award:
     enable: true #是否开启赞赏功能
-    wechat: http://qn.zkheo.top/wechatpay.png
-    alipay: http://qn.zkheo.top/alipay.png
+    wechat: https://tx.zkheo.top/20230510150034.png
+    alipay: https://tx.zkheo.top/20230510150050.png
     url: #打赏名单url
   covercolor: #文章cover取色
     enable: false
