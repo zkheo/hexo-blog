@@ -9,7 +9,7 @@ authorinfo:
     - "🏃"
     - "🧱"
     - "💢"
-  image: "http://tx.zkheo.top/avatar.gif"
+  image: "http://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif"
 contentinfo:
   name: ZKHEO
   title: JAVA开发、业余博主
@@ -23,46 +23,46 @@ skills:
   subtitle: 开启创造力
   tags: #
     - title: Java
-      icon: https://tx.zkheo.top/202305101451563.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101451563.png
       color: "#ffffff"
     - title: Spring
-      icon: https://tx.zkheo.top/202305101451265.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101451265.png
       color: "#ffffff"
     - title: Sql
-      icon: https://tx.zkheo.top/202305101452804.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452804.png
       color: "#ffffff"
     - title: Vue
-      icon: https://tx.zkheo.top/202305101452496.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452496.png
       color: "#ffffff"
     - title: "HTML"
       color: "#ffffff"
-      icon: https://tx.zkheo.top/202305101452383.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452383.png
     - title: "JS"
       color: "#ffffff"
-      icon: https://tx.zkheo.top/202305101453167.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101453167.png
     - title: "CSS3"
       color: "#ffffff"
-      icon: https://tx.zkheo.top/20230510145452.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145452.png
     - title: Python
-      icon: https://tx.zkheo.top/20230510145524.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145524.png
       color: "#ffffff"
     - title: "Flutter"
       color: "#ffffff"
-      icon: https://tx.zkheo.top/20230510145545.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145545.png
     - title: "Dart"
       color: "#ffffff"
-      icon: https://tx.zkheo.top/20230510145610.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145610.png
     - title: "Maven"
       color: "#ffffff"
-      icon: https://tx.zkheo.top/20230510145648.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145648.png
     - title: "Git"
       color: "#ffffff"
-      icon: https://tx.zkheo.top/20230510145719.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145719.png
     - title: Idea
-      icon: https://tx.zkheo.top/20230510145736.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145736.png
       color: "#ffffff"
     - title: Docker
-      icon: https://tx.zkheo.top/20230510145758.png
+      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145758.png
       color: "#ffffff"
 
 careers:

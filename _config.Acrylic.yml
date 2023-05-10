@@ -11,8 +11,8 @@ site:
   name:                   # 左上角显示内容
     class:  text          #i_class/text/img
     custom: ZKHEO       #自定义内容
-  siteIcon: http://tx.zkheo.top/avatar.gif # 网页icon
-  icon: http://tx.zkheo.top/avatar.gif     # 页脚的icon、加载动画默认的icon
+  siteIcon: http://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif # 网页icon
+  icon: http://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif     # 页脚的icon、加载动画默认的icon
   icp:                       # ICP
 
 # 导航栏
@@ -23,10 +23,10 @@ nav:
     menu:
        我的:
          博客:
-           icon: http://tx.zkheo.top/avatar.gif
+           icon: http://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif
            url: /
          GPT:
-           icon: https://tx.zkheo.top/202305101449797.png
+           icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101449797.png
            url: https://gpt.zkheo.top/
 # 导航栏内容
   menu:
@@ -69,46 +69,46 @@ hometop:
     url: blog.zkheo.top
     icon:
       Java:
-         img: https://tx.zkheo.top/202305101451563.png
+         img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101451563.png
          color: '#ffffff'
       Spring:
-        img: https://tx.zkheo.top/202305101451265.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101451265.png
         color: '#ffffff'
       Sql:
-        img: https://tx.zkheo.top/202305101452804.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452804.png
         color: '#ffffff'
       Vue:
-        img: https://tx.zkheo.top/202305101452496.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452496.png
         color: '#ffffff'
       HTML:
-        img: https://tx.zkheo.top/202305101452383.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452383.png
         color: '#ffffff'
       JS:
-        img: https://tx.zkheo.top/202305101453167.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101453167.png
         color: '#ffffff'
       CSS3:
-        img: https://tx.zkheo.top/20230510145452.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145452.png
         color: '#ffffff'
       Python:
-        img: https://tx.zkheo.top/20230510145524.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145524.png
         color: '#ffffff'
       Flutter:
-        img: https://tx.zkheo.top/20230510145545.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145545.png
         color: '#ffffff'
       Dart:
-        img: https://tx.zkheo.top/20230510145610.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145610.png
         color: '#ffffff'
       Maven:
-        img: https://tx.zkheo.top/20230510145648.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145648.png
         color: '#ffffff'
       Git:
-        img: https://tx.zkheo.top/20230510145719.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145719.png
         color: '#ffffff'
       Idea:
-        img: https://tx.zkheo.top/20230510145736.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145736.png
         color: '#ffffff'
       Docker:
-        img: https://tx.zkheo.top/20230510145758.png
+        img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145758.png
         color: '#ffffff'
 
   categoryGroup:
@@ -165,7 +165,7 @@ aside:
     backface:
       title: 扫一扫
       desc: 获取最新信息和帮助
-      img: https://tx.zkheo.top/20230510150003.png
+      img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150003.png
 
   toc:
     post: true
@@ -238,8 +238,8 @@ post:
     comment: true #是否显示评论数
   award:
     enable: true #是否开启赞赏功能
-    wechat: https://tx.zkheo.top/20230510150034.png
-    alipay: https://tx.zkheo.top/20230510150050.png
+    wechat: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150034.png
+    alipay: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150050.png
     url: #打赏名单url
   covercolor: #文章cover取色
     enable: false
