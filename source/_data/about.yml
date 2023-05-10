@@ -129,6 +129,7 @@ like:
 
 oneself:
   location: '中国，北京市'
+  map: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510154333.png
   birthYear: '1990'
   university: '中国戏曲学院'
   major: '京剧表演'

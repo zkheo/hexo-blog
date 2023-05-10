@@ -127,9 +127,9 @@ hometop:
 
   recommendList:
     sup: 置顶文章
-    title: 让Acrylic成为您的Hexo主题
-    url: /
-    img: /img/acrylic.png
+    title: ChatGPT
+    url: /tags/chatGpt/
+    img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/gpt3-1024x576.png
     color: '#006a73'
 
 # 个人卡片
@@ -250,15 +250,15 @@ about: true
 
 # 404页面
 errorpage:
-  img: /img/acrylic.png
+  img: /img/hello.jpg
   text: =awa= 页面走丢了
   recommendList: true
 
 # 懒加载
 lazyload:
   enable: false
-  placeholder: /img/acrylic.png
-  errorimg: /img/acrylic.png
+  placeholder: /img/hello.jpg
+  errorimg: /img/hello.jpg
 
 # 图片灯箱
 lightbox: true

@@ -1,6 +1,6 @@
-<div class="flink" id="banners">
-    <%- partial('partial/compoment/links/banner') %>
-</div>
+<!-- <div class="flink" id="banners"> -->
+<!--     <%- partial('partial/compoment/links/banner') %> -->
+<!-- </div> -->
 <div class="flink" id="article-container">
     <% site.data.links.links.forEach(data => { %>
         <h2><%= data.class_name %></h2>
@@ -13,7 +13,7 @@
                 <%- partial('partial/compoment/links/linksItem', {data:data.link_list}) %>
             <% break;
             default: %>
-            <% break; } %> 
+            <% break; } %>
     <% }); %>
 </div>
 <div id="article-container">
