@@ -11,8 +11,8 @@ site:
   name:                   # 左上角显示内容
     class:  text          #i_class/text/img
     custom: ZKHEO       #自定义内容
-  siteIcon: http://ypy.zkheo.top/image/avatar.gif # 网页icon
-  icon: http://ypy.zkheo.top/image/avatar.gif     # 页脚的icon、加载动画默认的icon
+  siteIcon: http://qn.zkheo.top/avatar.gif # 网页icon
+  icon: http://qn.zkheo.top/avatar.gif     # 页脚的icon、加载动画默认的icon
   icp:                       # ICP
 
 # 导航栏
@@ -23,7 +23,7 @@ nav:
     menu:
        我的:
          博客:
-           icon: http://ypy.zkheo.top/image/avatar.gif
+           icon: http://qn.zkheo.top/avatar.gif
            url: /
          GPT:
            icon: http://qn.zkheo.top/gpt.png
