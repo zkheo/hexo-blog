@@ -70,7 +70,7 @@ careers:
   subtitle: "无限探索"
   items:
     - school: "Peking Opera"
-      major: "京剧演员"
+      major: "京剧"
       color: "#357ef5"
     - school: "Coder"
       major: "程序员"
@@ -87,7 +87,7 @@ personalities:
   linkText: "16personalities"
   typeLink: "https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC"
   typeName: "冒险家"
-  myphoto: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150448.png"
+  myphoto: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150449.png"
 
 motto:
   enable: false
@@ -106,12 +106,12 @@ game1:
   title: "魔兽世界"
   icon: "fas fa-gamepad"
   tips: ""
-  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150539.png
+  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/1JG4UGMOYQYO1472165790545.webp
 game2:
   title: "魔兽世界"
   icon: "fas fa-dice-d20"
   tips: "ID 1234"
-  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150600.png
+  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/UE1LAXBL2M2Z1468597155029.webp
 like:
   enable: false
   likes:
