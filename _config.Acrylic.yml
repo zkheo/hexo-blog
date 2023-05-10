@@ -11,8 +11,8 @@ site:
   name:                   # 左上角显示内容
     class:  text          #i_class/text/img
     custom: ZKHEO       #自定义内容
-  siteIcon: https://bu.dusays.com/2023/03/03/6401a7960c0fb.webp # 网页icon
-  icon: https://bu.dusays.com/2023/03/03/6401a7960c0fb.webp     # 页脚的icon、加载动画默认的icon
+  siteIcon: http://rufhbqqcn.sabkt.gdipper.com/avatar.gif # 网页icon
+  icon: http://rufhbqqcn.sabkt.gdipper.com/avatar.gif     # 页脚的icon、加载动画默认的icon
   icp:                       # ICP
 
 # 导航栏
@@ -23,7 +23,7 @@ nav:
     menu:
        我的:
          博客:
-           icon: https://bu.dusays.com/2023/03/03/6401a7960c0fb.webp
+           icon: http://rufhbqqcn.sabkt.gdipper.com/avatar.gif
            url: /
          GPT:
            icon: http://qn.zkheo.top/gpt.png
