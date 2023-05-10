@@ -9,7 +9,7 @@ authorinfo:
     - "🏃"
     - "🧱"
     - "💢"
-  image: "http://blog-1256646833.cos.ap-hongkong.myqcloud.com/avatar.gif"
+  image: "http://blog-1256646833.cos.accelerate.myqcloud.com/avatar.gif"
 contentinfo:
   name: ZKHEO
   title: JAVA开发、业余博主
@@ -23,46 +23,46 @@ skills:
   subtitle: 开启创造力
   tags: #
     - title: Java
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101451563.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/202305101451563.png
       color: "#ffffff"
     - title: Spring
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101451265.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/202305101451265.png
       color: "#ffffff"
     - title: Sql
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452804.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/202305101452804.png
       color: "#ffffff"
     - title: Vue
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452496.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/202305101452496.png
       color: "#ffffff"
     - title: "HTML"
       color: "#ffffff"
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101452383.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/202305101452383.png
     - title: "JS"
       color: "#ffffff"
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101453167.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/202305101453167.png
     - title: "CSS3"
       color: "#ffffff"
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145452.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145452.png
     - title: Python
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145524.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145524.png
       color: "#ffffff"
     - title: "Flutter"
       color: "#ffffff"
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145545.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145545.png
     - title: "Dart"
       color: "#ffffff"
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145610.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145610.png
     - title: "Maven"
       color: "#ffffff"
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145648.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145648.png
     - title: "Git"
       color: "#ffffff"
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145719.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145719.png
     - title: Idea
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145736.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145736.png
       color: "#ffffff"
     - title: Docker
-      icon: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510145758.png
+      icon: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510145758.png
       color: "#ffffff"
 
 careers:
@@ -75,19 +75,19 @@ careers:
     - school: "Coder"
       major: "程序员"
       color: "#eb372a"
-  image: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/202305101504829.png"
+  image: "https://blog-1256646833.cos.accelerate.myqcloud.com/202305101504829.png"
 
 personalities:
   tips: "性格"
   title: "冒险家"
   color: "#56a178"
   type: "ISFP-T"
-  image: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150425.png"
+  image: "https://blog-1256646833.cos.accelerate.myqcloud.com/20230510150425.png"
   link: "https://www.16personalities.com/"
   linkText: "16personalities"
   typeLink: "https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC"
   typeName: "冒险家"
-  myphoto: "https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510150449.png"
+  myphoto: "https://blog-1256646833.cos.accelerate.myqcloud.com/20230510150449.png"
 
 motto:
   enable: false
@@ -106,12 +106,12 @@ game1:
   title: "魔兽世界"
   icon: "fas fa-gamepad"
   tips: ""
-  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/1JG4UGMOYQYO1472165790545.webp
+  img: https://blog-1256646833.cos.accelerate.myqcloud.com/1JG4UGMOYQYO1472165790545.webp
 game2:
   title: "魔兽世界"
   icon: "fas fa-dice-d20"
   tips: "ID 1234"
-  img: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/UE1LAXBL2M2Z1468597155029.webp
+  img: https://blog-1256646833.cos.accelerate.myqcloud.com/UE1LAXBL2M2Z1468597155029.webp
 like:
   enable: false
   likes:
@@ -129,7 +129,7 @@ like:
 
 oneself:
   location: '中国，北京市'
-  map: https://blog-1256646833.cos.ap-hongkong.myqcloud.com/20230510154333.png
+  map: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510154333.png
   birthYear: '1990'
   university: '中国戏曲学院'
   major: '京剧表演'
