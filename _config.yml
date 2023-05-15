@@ -113,7 +113,7 @@ search:
 # 文章加密
 encrypt: # hexo-blog-encrypt
   abstract: 有东西被加密了, 请输入密码查看.
-  message: 您好, 这里需要密码.
+  message: 关注公众号：[HEO网络]，获取访问密码.
   tags:
     - {name: pass, password: 1122}
   theme: wave
