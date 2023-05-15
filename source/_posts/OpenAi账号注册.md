@@ -1,17 +1,18 @@
 ---
 title: 超详细的OpenAi账号注册教程
-date: 2023-05-15 17:49:42
 recommend: true
-description: 
 keywords:
   - gpt
   - chatgpt
   - chatgpt账号注册教程
-cover: https://blog-1256646833.cos.accelerate.myqcloud.com/202305151810836.png
+cover: 'https://blog-1256646833.cos.accelerate.myqcloud.com/202305151810836.png'
 tags:
   - gpt
 categories:
   - 教程
+abbrlink: d613
+date: 2023-05-15 17:49:42
+description:
 ---
 
 # 前置条件
