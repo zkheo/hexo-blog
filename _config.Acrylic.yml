@@ -113,17 +113,17 @@ hometop:
 
   categoryGroup:
     G1:
-      name: 技术
+      name: 热门
       icon: fas fa-dove
-      url: /tags/技术/
+      url: /tags/热门/
     G2:
-      name: 兴趣
+      name: 教程
       icon: fas fa-burn
-      url: /tags/兴趣/
+      url: /tags/教程/
     G3:
-      name: 生活
+      name: 日常
       icon: fas fa-book
-      url: /tags/生活/
+      url: /tags/日常/
 
   recommendList:
     sup: 置顶文章

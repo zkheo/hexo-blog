@@ -1,12 +1,7 @@
 ---
 title: Hello World
-tags:
-  - pass
-#password: 123123
-#abstract: 有东西被加密了, 请输入密码查看.
-#message: 您好, 这里需要密码.
-#wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
-#wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
+cover: https://p.adil.com.cn/uPic/%E8%BD%AC%E6%8D%A2.jpg
+
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
