@@ -242,7 +242,7 @@ post:
     alipay: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510150050.png
     url: #打赏名单url
   covercolor: #文章cover取色
-    enable: false
+    enable: true
     local: false
 
 # 关于界面
