@@ -160,12 +160,12 @@ aside:
   flip:
     color: '#0099FF'
     face:
-      title: QQ群
-      desc: 加入QQ群一起交流
+      title: 微信公众号
+      desc: 获取最新的文章
     backface:
       title: 扫一扫
-      desc: 获取最新信息和帮助
-      img: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510150003.png
+      desc: 不错过精彩文章
+      img: http://blog-1256646833.cos.accelerate.myqcloud.com/d31b0d975e89b9fd0f3b57880f67cf55.png
 
   toc:
     post: true
