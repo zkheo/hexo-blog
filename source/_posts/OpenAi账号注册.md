@@ -1,6 +1,7 @@
 ---
 title: 超详细的OpenAi账号注册教程
 date: 2023-05-15 17:49:42
+recommend: true
 description: 
 keywords:
   - gpt

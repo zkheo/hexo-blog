@@ -115,20 +115,20 @@ hometop:
     G1:
       name: 热门
       icon: fas fa-dove
-      url: /tags/热门/
+      url: /categories/热门/
     G2:
       name: 教程
       icon: fas fa-burn
-      url: /tags/教程/
+      url: /categories/教程/
     G3:
       name: 日常
       icon: fas fa-book
-      url: /tags/日常/
+      url: /categories/日常/
 
   recommendList:
     sup: 置顶文章
     title: ChatGPT
-    url: /tags/chatGpt/
+    url: /tags/gpt/
     img: https://blog-1256646833.cos.accelerate.myqcloud.com/gpt3-1024x576.png
     color: '#006a73'
 
