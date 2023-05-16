@@ -5,7 +5,7 @@ keywords:
   - gpt
   - chatgpt
   - chatgpt账号注册教程
-cover: 'https://blog-1256646833.cos.accelerate.myqcloud.com/202305151810836.png'
+cover: 'https://ypyobj.zkheo.top/202305161423155.png'
 tags:
   - gpt
 categories:
@@ -27,23 +27,23 @@ description:
 
 接码平台地址：[sms-activate](https://sms-activate.org/)
 
-![image-20230515192438353](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515192438353.png)
+![image-20230515192438353](https://ypyobj.zkheo.top/202305161424470.png)
 
 点击充值，选择支付宝，最低充值2美元
 
-![image-20230515192658258](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515192658258.png)
+![image-20230515192658258](https://ypyobj.zkheo.top/20230516142501.png)
 
 在搜索框中输入**openai**
 
-![image-20230515192835708](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515192835708.png)
+![image-20230515192835708](https://ypyobj.zkheo.top/20230516142518.png)
 
 点击搜索出的**OpenAI**选项
 
-![image-20230515193040048](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515193040048.png)
+![image-20230515193040048](https://ypyobj.zkheo.top/20230516142538.png)
 
 选择一个便宜的国家，这里我有使用过**美国、英国、哥伦比亚**国家，可以正常注册，各位也可以尝试下其他国家
 
-![image-20230515203300239](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203300239.png)
+![image-20230515203300239](https://ypyobj.zkheo.top/20230516142555.png)
 
 这里我买了哥伦比亚国家的手机号，等待接收短息
 
@@ -51,51 +51,51 @@ description:
 
 > 1.浏览器打开OpenAI主页 [](https://openai.com/)
 
-![image-20230515203439736](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203439736.png)
+![image-20230515203439736](https://ypyobj.zkheo.top/202305161426586.png)
 
 点击截图中的按钮
 
-![image-20230515203523750](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203523750.png)
+![image-20230515203523750](https://ypyobj.zkheo.top/202305161427496.png)
 
 点击注册
 
-![image-20230515203635900](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203635900.png)
+![image-20230515203635900](https://ypyobj.zkheo.top/202305161427083.png)
 
 填写邮箱地址
 
-![image-20230515203710685](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203710685.png)
+![image-20230515203710685](https://ypyobj.zkheo.top/202305161428202.png)
 
 填写密码
 
-![image-20230515203734567](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203734567.png)
+![image-20230515203734567](https://ypyobj.zkheo.top/202305161428092.png)
 
 等待邮箱验证
 
-![image-20230515203812614](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203812614.png)
+![image-20230515203812614](https://ypyobj.zkheo.top/202305161428156.png)
 
 登录注册的邮箱，点击验证
 
-![image-20230515203955227](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515203955227.png)
+![image-20230515203955227](https://ypyobj.zkheo.top/202305161428409.png)
 
 填写用户信息（瞎填就行）
 
-![image-20230515204048566](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515204048566.png)
+![image-20230515204048566](https://ypyobj.zkheo.top/202305161428349.png)
 
 填写购买的手机号，发送代码
 
-![image-20230515204149790](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515204149790.png)
+![image-20230515204149790](https://ypyobj.zkheo.top/20230516142910.png)
 
 切换到短息接收页面，等待短息，这里可能会慢一点，耐心等待
 
-![image-20230515204253248](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515204253248.png)
+![image-20230515204253248](https://ypyobj.zkheo.top/202305161429146.png)
 
 短信验证成功后，就成功完成注册了
 
-![image-20230515204349127](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515204349127.png)
+![image-20230515204349127](https://ypyobj.zkheo.top/202305161429841.png)
 
 点击View API keys，前往key管理页面
 
-![image-20230515204443406](https://blog-1256646833.cos.accelerate.myqcloud.com/image-20230515204443406.png)
+![image-20230515204443406](https://ypyobj.zkheo.top/202305161429793.png)
 
 点击按钮创建API KEY，到这里就算完成！
 
@@ -110,7 +110,7 @@ description:
 
 不定期为大家分享各种网络教程，及网络免费资源
 
-<img src="https://blog-1256646833.cos.accelerate.myqcloud.com/d31b0d975e89b9fd0f3b57880f67cf55.png" alt="图片名称" width="20%" /> 
+<img src="https://ypyobj.zkheo.top/202305161430331.png" alt="图片名称" width="20%" /> 
 
 > 欢迎大家加QQ群：722807877
 
