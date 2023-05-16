@@ -11433,6 +11433,13 @@ figure.gallery-group:hover .gallery-group-name::after {
   flex-wrap: wrap;
 }
 
+.footer-banner-right-my {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: end;
+}
+
 #footer-wrap {
   display: flex;
   flex-wrap: wrap;

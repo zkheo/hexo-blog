@@ -238,8 +238,8 @@ post:
     comment: true #是否显示评论数
   award:
     enable: true #是否开启赞赏功能
-    wechat: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510150034.png
-    alipay: https://blog-1256646833.cos.accelerate.myqcloud.com/20230510150050.png
+    wechat: https://ypyobj.zkheo.top/wechatpay.png
+    alipay: https://ypyobj.zkheo.top/alipay.png
     url: #打赏名单url
   covercolor: #文章cover取色
     enable: true
