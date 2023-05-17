@@ -49,7 +49,7 @@ description:
 
 # 注册步骤
 
-> 1.浏览器打开OpenAI主页 [](https://openai.com/)
+> 1.浏览器打开OpenAI主页 [OpenAI](https://openai.com/)
 
 ![image-20230515203439736](https://ypyobj.zkheo.top/202305161426586.png)
 
