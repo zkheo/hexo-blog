@@ -153,6 +153,9 @@ aside:
        Mail:
          icon: fa-solid fa-envelope
          url: zk2252@88.com
+       QQ:
+         icon: fa-brands fa-qq
+         url: https://qm.qq.com/cgi-bin/qm/qr?k=VsSjO3JLw9pHfVWDYGV-ZRojp8Qnb-r3&jump_from=webapi&authKey=Z370hi270ddH91JjJjQnKi3os8H7ki4oyUEYXeYknx7E4eDLOLjYHQvrcEuIcOXA
     button:
       text: 个人主页
       url: /
