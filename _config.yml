@@ -21,8 +21,8 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 baidu_url_submit:
-  count: 10 # 比如3，代表提交最新的三个链接
-  host: https://b.zkheo.top  # 在百度站长平台中注册的域名
+  count: 100 # 比如3，代表提交最新的三个链接
+  host: b.zkheo.top  # 在百度站长平台中注册的域名
   token: EZoWANv8u2TpYH4E # 请注意这是您的秘钥， 请不要发布在公众仓库里!
   path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里
 
@@ -123,7 +123,7 @@ sitemap:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  - type: baidu_url_submitter # 添加该项
 
 search:
   path: search.xml
