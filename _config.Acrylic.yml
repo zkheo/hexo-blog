@@ -44,9 +44,8 @@ nav:
          全部标签:
            url: /tags/
            icon: fas fa-tags
-#    仓库:
-#      url: https://github.com/rootlexblog
-#      child:
+     免费GPT:
+       url: https://gpt.zkheo.top/
      友链:
        url: /links/
        icon: fas fa-user-group
