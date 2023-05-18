@@ -34,7 +34,7 @@ keywords:
 | pcjzvbfz_@yunweiloginmh3.com | Ce508NE41I      |
 | hp7tt3cuc@yunweiloginmh3.com | pBQOw3XYi8      |
 
-| openaikey                                           |
+| openaikey --- 已全部失效                            |
 | --------------------------------------------------- |
 | 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 |
 | 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 |
