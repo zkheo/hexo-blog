@@ -9183,6 +9183,17 @@ figure {
   -webkit-user-select: none;
 }
 
+.post-copyright__original-my {
+  color: #838282;
+  padding: 0.3rem 0.3rem;
+  border-radius: 20px;
+  font-weight: bold;
+  line-height: 1.5;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  text-align: center;
+}
+
 .post-copyright__original:hover {
   background: var(--heo-main);
   color: var(--heo-white);
@@ -12484,6 +12495,19 @@ a.bb-link-info:hover {
   justify-content: space-between;
   width: 100%;
   margin-top: 1rem;
+}
+
+.contact-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+#groupmy{
+  width: 15%;
+  margin: 0px 50px;
 }
 
 /* 一行内容，纵向组件 */
